@@ -11,6 +11,7 @@
 		4FA0B4C7294AAEAF00205FC3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA0B4C6294AAEAF00205FC3 /* ContentView.swift */; };
 		4FA0B4C9294AAEB100205FC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FA0B4C8294AAEB100205FC3 /* Assets.xcassets */; };
 		4FA0B4CC294AAEB100205FC3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FA0B4CB294AAEB100205FC3 /* Preview Assets.xcassets */; };
+		CE4284B029514736005A5F0C /* StackViewExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4284AF29514736005A5F0C /* StackViewExercise.swift */; };
 		CEE02357294C06C8007EC763 /* StackViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE02356294C06C8007EC763 /* StackViewDemo.swift */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		4FA0B4C6294AAEAF00205FC3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4FA0B4C8294AAEB100205FC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FA0B4CB294AAEB100205FC3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CE4284AF29514736005A5F0C /* StackViewExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewExercise.swift; sourceTree = "<group>"; };
 		CEE02356294C06C8007EC763 /* StackViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,6 +57,7 @@
 			children = (
 				4FA0B4C4294AAEAF00205FC3 /* AppleHelloWorldApp.swift */,
 				CEE02356294C06C8007EC763 /* StackViewDemo.swift */,
+				CE4284AF29514736005A5F0C /* StackViewExercise.swift */,
 				4FA0B4C6294AAEAF00205FC3 /* ContentView.swift */,
 				4FA0B4C8294AAEB100205FC3 /* Assets.xcassets */,
 				4FA0B4CA294AAEB100205FC3 /* Preview Content */,
@@ -143,6 +146,7 @@
 				4FA0B4C7294AAEAF00205FC3 /* ContentView.swift in Sources */,
 				CEE02357294C06C8007EC763 /* StackViewDemo.swift in Sources */,
 				4FA0B4C5294AAEAF00205FC3 /* AppleHelloWorldApp.swift in Sources */,
+				CE4284B029514736005A5F0C /* StackViewExercise.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
