@@ -12,6 +12,7 @@
 		4FA0B4C9294AAEB100205FC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FA0B4C8294AAEB100205FC3 /* Assets.xcassets */; };
 		4FA0B4CC294AAEB100205FC3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FA0B4CB294AAEB100205FC3 /* Preview Assets.xcassets */; };
 		CE4284B029514736005A5F0C /* StackViewExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4284AF29514736005A5F0C /* StackViewExercise.swift */; };
+		CE4284B229519537005A5F0C /* ListDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4284B129519537005A5F0C /* ListDemo.swift */; };
 		CEE02357294C06C8007EC763 /* StackViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE02356294C06C8007EC763 /* StackViewDemo.swift */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		4FA0B4C8294AAEB100205FC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FA0B4CB294AAEB100205FC3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE4284AF29514736005A5F0C /* StackViewExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewExercise.swift; sourceTree = "<group>"; };
+		CE4284B129519537005A5F0C /* ListDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDemo.swift; sourceTree = "<group>"; };
 		CEE02356294C06C8007EC763 /* StackViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,6 +61,7 @@
 				CEE02356294C06C8007EC763 /* StackViewDemo.swift */,
 				CE4284AF29514736005A5F0C /* StackViewExercise.swift */,
 				4FA0B4C6294AAEAF00205FC3 /* ContentView.swift */,
+				CE4284B129519537005A5F0C /* ListDemo.swift */,
 				4FA0B4C8294AAEB100205FC3 /* Assets.xcassets */,
 				4FA0B4CA294AAEB100205FC3 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				CEE02357294C06C8007EC763 /* StackViewDemo.swift in Sources */,
 				4FA0B4C5294AAEAF00205FC3 /* AppleHelloWorldApp.swift in Sources */,
 				CE4284B029514736005A5F0C /* StackViewExercise.swift in Sources */,
+				CE4284B229519537005A5F0C /* ListDemo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
